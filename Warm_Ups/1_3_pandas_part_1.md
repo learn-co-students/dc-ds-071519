@@ -1,10 +1,11 @@
 # Pandas and numpy - pair-up
-### Discussion session
 
-1. How will you read the following data into a pandas data frame ? 
+With a partner of your choosing complete the following in a jupyter notebook.
+
+1. Read the following data into a pandas data frame
  ` ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt`
  
-2. How would you pick columns 0,1,3 ?  
+2. Select columns 0,1,3 
 `[[0, 1, 3]]`
 
 3. Use a for loop to find all rows where 
