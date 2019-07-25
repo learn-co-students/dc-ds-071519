@@ -16,7 +16,7 @@
 `use ls`
 
 ### 3. Using matplotlib we want to create the following figure : 
-![Alt Image Text](./plots/CO2_warmup.png)
+![Alt Image Text](../plots/CO2_warmup.png)
 
 - Each month is signaled by different colour 
 - Add an yearly average (red) (use groupby with mean)
