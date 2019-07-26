@@ -13,7 +13,7 @@ Some areas you can look to examine are movie genres (Thriller, Drama, Comedy, et
 ## Data Sources
 Microsoft has provided some data from Box Office Mojo, IMDB, Rotten Tomatoes, and TheMovieDB.org. You are not limited to these data sets! If you find other useful data on the web, you are welcome to include it (but this is not a requirement).
 
-All data lives in [`./zippedData/`](./zippedData)
+All data lives in [`./zippedData/`](./zippedData).
 Be sure to make a directory named 'data'.
 Once you've unzipped the data, place the .csv's into your newly created data folder
 This will ensure your .csv's don't error out a git push.
