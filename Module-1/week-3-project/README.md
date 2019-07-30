@@ -13,7 +13,11 @@ Some areas you can look to examine are movie genres (Thriller, Drama, Comedy, et
 ## Data Sources
 Microsoft has provided some data from Box Office Mojo, IMDB, Rotten Tomatoes, and TheMovieDB.org. You are not limited to these data sets! If you find other useful data on the web, you are welcome to include it (but this is not a requirement).
 
-All data lives in [`./data/`](./data)
+All data lives in [`./zippedData/`](./zippedData).
+Be sure to make a directory named 'data'.
+Once you've unzipped the data, place the .csv's into your newly created data folder
+This will ensure your .csv's don't error out a git push.
+
 - Box Office Mojo
   - data
     - bom.movie_gross.csv.gz
@@ -97,32 +101,31 @@ Be prepared to answer questions such as:
  
 ## Specifics:
 ### This project is in groups
-- Group A: Moussa Doumbia + Anthony Schams
-- Group B: Keita Miyaki + Mindy Zhou
-- Group C: Clifford Bridges + Misha Berrien
-- Group D: Sean Carver + Tim Christy + Joseph McAllister
-- Group E: Ngoc Tran + Dmitry Mikhaylov
-- Group F: Allan Gayahan + Phoebe Wong
-- Group G: TingTing Li + Nateé Johnson
-- Group H: Emefa Agodo + Kate Hayes
-- Group I: Quinn Dizon + Joey Goodman
+- Group A: Tayo Akigbogun + Michelle Kim
+- Group B: Peter Haferl + Ramin Ostad
+- Group C: Xin Xue + William Sundstrom
+- Group D: Kyle Hayes + George Haws
+- Group E: Yijing Li + Blanche Sonia Ngo Mahop
+- Group F: Marissa Eppes + Melissa Rodriguez
+- Group G: Kaleb Nyquist + Sisay Filate
+- Group H: Ian Reinert + Michael Nkwantabisa + Cory Gough
 
 ### Timeline
 
-6/14 Friday - Project Assignment 
+7/26 Friday - Project Assignment 
  - schedule Monday check in with coach
  
-6/17 Monday - Check in with coaches 
+7/29 Monday - Check in with coaches 
  - review data cleaning
  - provide url of project repository
  - review at least one table/chart
  - review work plan created for how teammates will approach and divide work
  
-6/18 Tuesday - Demo presentation with feedback from instructors 
+7/30 Tuesday - Demo presentation with feedback from instructors 
  - have polished draft of deck completed
  - have polished version of jupyter notebook completed
  
-6/19 Wednesday 
+7/31 Wednesday 
  - afternoon project presentation
  - science fair open to staff and fellow students
 
