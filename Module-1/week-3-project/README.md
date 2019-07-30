@@ -89,7 +89,7 @@ Be prepared to answer questions such as:
    - [ ] A narrative Jupyter notebook targeted to a non-technical audience that provides:
      - [ ] The purpose of your analysis and why it matters
      - [ ] 4 well annotated visualizations created using Matplotlib/Seaborn
-     - [ ] 2 meaningful summary tables
+     - [ ] 2 meaningful summary tables using Pandas
      - [ ] At least four actionable insights (What type of films should they be looking to produce? What should the budget requirements be? Should they recruit certain actors for their films?)
    - [ ] A pdf of no more than 8 slides used in project presentation targeting non-technical audience
      - [ ] Apply consistent and effective formatting to create a “professional” appearing deck
