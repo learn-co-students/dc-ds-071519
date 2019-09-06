@@ -109,6 +109,7 @@ Your presentation should:
 - Peter & Cory
 - Will & Melissa
 - Ramin & Sisay
+- Sonja & Michelle
 
 ### Timeline:
 - Friday, Project Assigned
