@@ -1,6 +1,9 @@
 
 # Module 5 Final Project
 
+Here is the video link to the project announcement: 
+[link](https://youtu.be/aO0MfIFz9M4)
+
 ## Project Summary
 
 Congratulations! You've made it through another _intense_ module, and now you're ready to show off your newfound Machine Learning skills!
