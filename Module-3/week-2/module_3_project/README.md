@@ -30,17 +30,17 @@ that are relevant to the stakeholder and being clear with the limitations of you
 Project Requirements:
 Data Source
 For this project you are required to obtain data from:
-● At least one API source
-● Optional data from a CSV can be merged into your dataset
+- At least one API source
+- Optional data from a CSV can be merged into your dataset
 Statistical Analysis Requirements
 The goal of this project is to perform hypothesis testing on the collected data. For the project
 you will be required to:
-● Come up with 4 separate hypotheses to test (each test consisting of a clearly identified
+- Come up with 4 separate hypotheses to test (each test consisting of a clearly identified
 null and alternative hypothesis).
-● Explain what test (e.g. one-tailed t-test) you are using and why.
+- Explain what test (e.g. one-tailed t-test) you are using and why.
 Visualization Requirements
 As a part of presenting your results to stakeholders you should include:
-● 4 meaningful visualizations related to your data exploration or hypothesis testing
+- 4 meaningful visualizations related to your data exploration or hypothesis testing
 2
 
 
