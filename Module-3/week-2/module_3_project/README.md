@@ -50,9 +50,11 @@ version control and history. All documents must be contained in a git repository
 create. You should use the templates provided by instructors here.
 1. A README.md file listing project members, goals, responsibilities, and a
 summary of the files in the repository.
+
 2. At least 10 commits
 a. Must include short, descriptive commit messages
 b. Each project member should commit at least once
+
 3. Technical Jupyter Notebook- This notebook is targeted to a technical audience
 and should contain the following:
 a. Documentation of where the data came from- API and any additional CSV
@@ -62,6 +64,7 @@ analysis and justify your analytical choices
 c. Code should follow Pep8 standards
 d. Custom functions should be stored in a .py file and imported whenever
 possible
+
 4. Narrative Jupyter Notebook- This notebook is targeted to a non-technical
 audience and should contain the following:
 a. The purpose of your analysis and why it matters
@@ -70,12 +73,14 @@ c. Results of your 4 hypothesis tests
 d. At least four actionable insights based on the results of your hypothesis
 tests
 3
+
 5. 3 Python files- You should include these .py files using the templates provided in
 your GitHub repo and the functions in them in your technical notebook. The
 three files should be called:
 a. data_prep.py
 b. visualizations.py
 c. hypothesis_tests.py
+
 6. Slidedeck- You should include a pdf of your slidedeck targeted to the
 non-technical audience in your repo that includes:
 a. Use of the template formatting
@@ -85,6 +90,7 @@ d. Results of your hypothesis tests
 e. Exported visualizations from analysis
 f. Justification of at least 4 concrete recommendations
 g. No more than 10 slides
+
 7. Presentation- Your team must prepare a 5 minute presentation that presents the
 results of your analysis. Your presentation should use the template provided and
 include:
@@ -121,6 +127,7 @@ Test scripts and lint scores will be used to provide real-time feedback on proje
 performance. 
 
 You can expect to see the following
+
 Clean Data Tests:
 - test_no_null_values
 - test_no_duplicates
@@ -128,6 +135,7 @@ Clean Data Tests:
 - test_column_name_lowercase
 - test_column_name_whitespace
 - test_if_dataframe
+
 Visualization Tests:
 - test_if_matplotlib_object
 - test_title
