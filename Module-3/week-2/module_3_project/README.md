@@ -53,9 +53,9 @@ summary of the files in the repository.
 
 2. At least 10 commits
 
-a. Must include short, descriptive commit messages
+      a. Must include short, descriptive commit messages
 
-b. Each project member should commit at least once
+  b. Each project member should commit at least once
 
 3. Technical Jupyter Notebook- This notebook is targeted to a technical audience
 and should contain the following:
