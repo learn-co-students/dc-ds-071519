@@ -94,23 +94,25 @@ c. At least 4 meaningful data visualizations to help illustrate your findings
 d. Vocabulary targeted to a non-technical audience, avoid jargon
 e. No more than 10 slides
 4
+
+
 Project schedule
 8/19 Tuesday - Project Assignment
-● Schedule Wednesday check-in with coaches
+- Schedule Wednesday check-in with coaches
 
 8/20 Wednesday- Check in with coaches
-● Review API and other data sources
-● Review goals/questions
-● Review hypothesis tests you plan to conduct
-● Review work plan created for how teammates will approach and divide work
+- Review API and other data sources
+- Review goals/questions
+- Review hypothesis tests you plan to conduct-
+- Review work plan created for how teammates will approach and divide work
 
 8/21 Thursday - Demo presentation with feedback from instructors
-● Have a draft of deck completed
-● Have a version of jupyter notebook completed
+- Have a draft of deck completed
+- Have a version of jupyter notebook completed
 
 8/22 Friday- Presentations
-● Afternoon project presentation to the class
-● Science fair open to staff and fellow students
+- Afternoon project presentation to the class
+- Science fair open to staff and fellow students
 
 
 5
@@ -120,25 +122,25 @@ performance.
 
 You can expect to see the following
 Clean Data Tests:
-● test_no_null_values
-● test_no_duplicates
-● test_cells_no_brackets
-● test_column_name_lowercase
-● test_column_name_whitespace
-● test_if_dataframe
+- test_no_null_values
+- test_no_duplicates
+- test_cells_no_brackets
+- test_column_name_lowercase
+- test_column_name_whitespace
+- test_if_dataframe
 Visualization Tests:
-● test_if_matplotlib_object
-● test_title
-● test_xaxis
-● test_yaxis
+- test_if_matplotlib_object
+- test_title
+- test_xaxis
+- test_yaxis
 
 If any requirements are missing or if significant gaps in understanding are uncovered,
 be prepared to do one or all of the following:
-● Perform additional data cleanup, visualization, and/or feature selection
-● Submit an improved version
-● Meet again for another Project Presentation
+- Perform additional data cleanup, visualization, and/or feature selection
+- Submit an improved version
+- Meet again for another Project Presentation
 
 What won't happen:
-● You won't be yelled at, belittled, or scolded
-● You won't be put on the spot without support
-● There's nothing you can do to instantly fail or blow it
+- You won't be yelled at, belittled, or scolded
+- You won't be put on the spot without support
+- There's nothing you can do to instantly fail or blow it
